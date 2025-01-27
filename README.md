@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <img height="150" src="https://media.tenor.com/tpRJDV06cT4AAAAj/beaming-scott-pilgrim.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/thebronadid/count.svg?"  />
 </div>
 
@@ -49,8 +55,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" height="30" alt="discordjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
@@ -71,12 +75,6 @@
   <a href="https://x.com/thebronadid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="150" src="https://media.tenor.com/tpRJDV06cT4AAAAj/beaming-scott-pilgrim.gif"  />
 </div>
 
 ###
