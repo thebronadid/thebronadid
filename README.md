@@ -1,4 +1,4 @@
-<h1 align="center">Nadid Azwad | CSE Student | Python & Linux Enthusiast</h1>
+<h1 align="center"></h1>
 
 ###
 
