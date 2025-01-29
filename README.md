@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/thebronadid/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/nadidazwad/count.svg?"  />
 </div>
 
 ###
@@ -72,7 +72,7 @@
   <a href="https://www.facebook.com/profile.php?id=100086253390173" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://x.com/thebronadid" target="_blank">
+  <a href="https://x.com/nadidazwad" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
@@ -80,9 +80,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thebronadid/thebronadid/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thebronadid/thebronadid/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/thebronadid/thebronadid/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadidazwad/nadidazwad/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nadidazwad/nadidazwad/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nadidazwad/nadidazwad/output/github-snake.svg" />
 </picture>
 
 ###
